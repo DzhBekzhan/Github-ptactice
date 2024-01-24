@@ -5,8 +5,13 @@ h1{
 }
 p{
     color: aqua;
+<<<<<<< HEAD
 }
 
 body{
     background: black;
+=======
+    width: 500px;
+    height: 500px;
+>>>>>>> 83f499cc032c832fa757882cb9610292d2e96b04
 }
